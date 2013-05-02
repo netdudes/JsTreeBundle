@@ -1,2 +1,2 @@
-JstreeBundle
+JsTreeBundle
 ============
