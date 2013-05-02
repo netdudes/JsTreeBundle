@@ -1,6 +1,6 @@
 <?php
 
-namespace Netdudes\Bundles\JsTreeBundle;
+namespace Netdudes\Bundle\JsTreeBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
